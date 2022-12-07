@@ -45,7 +45,7 @@ The different sections of the paper are listed and linked below for easy navigat
 
 In order to understand Hi-C, we must give context for the technology.
 
-Because Hi-C aims to analyze the organization of the genome, we will first talk about genome organization. 
+Hi-C aims to analyze the organization of the genome so first we must discuss genome organization.
 
 <img src="images/genome-organization.png" width="600" height="240" />
 
